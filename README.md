@@ -1,0 +1,1 @@
+This project demonstrates a wireless LED brightness control system using ESP32 and Bluetooth communication. The LED intensity is adjusted in real time through a mobile device by transmitting control values to the ESP32. PWM (Pulse Width Modulation) is used to vary the LED brightness smoothly, enabling dynamic lighting control without physical interaction.
